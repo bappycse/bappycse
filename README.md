@@ -3,11 +3,6 @@
 Laravel Developer | Full-Stack Web Enthusiast
 Welcome to my GitHub profile! I'm a passionate Laravel developer with a strong foundation in building modern, scalable web applications. I specialize in creating seamless, efficient, and secure applications using PHP, Laravel, and modern front-end technologies.
 
-<!--
-**bappycse/bappycse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🌱 About Me:
 🔧 I'm always exploring new technologies to improve my development skills, especially PHP, Laravel, and Vue.js.
 🌍 Currently working remotely on various freelance and open-source projects.
