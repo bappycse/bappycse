@@ -1,5 +1,8 @@
 ## Hi, I'm Ashad Bappy  👋
 
+Laravel Developer | Full-Stack Web Enthusiast
+Welcome to my GitHub profile! I'm a passionate Laravel developer with a strong foundation in building modern, scalable web applications. I specialize in creating seamless, efficient, and secure applications using PHP, Laravel, and modern front-end technologies.
+
 <!--
 **bappycse/bappycse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
