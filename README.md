@@ -32,7 +32,7 @@ Product management
 Shopping cart and checkout system
 User authentication and roles
 Payment integration with Stripe
-Tech Stack: Laravel, Vue.js, Stripe API, Redis
+Tech Stack: Laravel, Vue.js, React, Stripe API, Redis
 
 
 📫 Get in Touch:
